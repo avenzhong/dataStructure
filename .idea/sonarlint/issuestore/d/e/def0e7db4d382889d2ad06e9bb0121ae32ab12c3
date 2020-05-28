@@ -1,0 +1,15 @@
+
+˜squid:S1186@"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Åö±
+˜squid:S1186H"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(í¸‘
+squid:S1186L"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ù¼™Àşÿÿÿÿ
+usquid:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(òä‘­üÿÿÿÿ
+rsquid:S3923-"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Ç¿½ú
+Asquid:S00108-")Either remove or fill this block of code.(Ç¿½ú
+Asquid:S00108/")Either remove or fill this block of code.(å¥‡
+Asquid:S001082")Either remove or fill this block of code.(å¥‡
+Vsquid:S1854<":Remove this useless assignment to local variable "target".(»ìÏ¶øÿÿÿÿ
+Fsquid:S1172L"*Remove this unused method parameter "end".(ù¼™Àşÿÿÿÿ
+Gsquid:S1481<"+Remove this unused "target" local variable.(»ìÏ¶øÿÿÿÿ
+Ysquid:UnusedPrivateMethodL"/Remove this unused private "rightShift" method.(ù¼™Àşÿÿÿÿ
+Hsquid:S1068",Remove this unused "capacity" private field.(Ò—àçşÿÿÿÿ
+Esquid:S1068")Remove this unused "count" private field.(Êâş¶úÿÿÿÿ

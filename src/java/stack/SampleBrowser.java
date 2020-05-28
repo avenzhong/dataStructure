@@ -112,6 +112,8 @@ public class SampleBrowser {
             return new Node(data, next);
         }
 
+
+
         public void clear() {
             this.top = null;
             this.size = 0;

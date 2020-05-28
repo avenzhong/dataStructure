@@ -1,0 +1,12 @@
+
+?squid:S2189§""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+Ãsquid:S1598"¦This file "LRUBaseLinkedList.java" should be located in "linked/singlelist" directory, not in "/Users/avenzhong/Documents/data/git/dataStructure/src/java/linkedlist".(ÇØ¢ùüÿÿÿÿ
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(˜äš×
+Osquid:S1854E"8Remove this useless assignment to local variable "temp".(œ¯¥³
+Nsquid:S1854s"7Remove this useless assignment to local variable "tmp".(ú«”è
+Nsquid:S1854q"7Remove this useless assignment to local variable "tmp".(‹à‰û
+O
+squid:S106z"9Replace this use of System.out or System.err by a logger.(ÎÔõÔ
+T
+squid:S106}"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+?squid:S1481q"(Remove this unused "tmp" local variable.(‹à‰û
